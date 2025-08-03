@@ -7,4 +7,4 @@ Course sections with sample course cards
 Basic layout structure using HTML
 Styling with CSS for a clean and modern look
 
-Link : https://github.com/Parameswari99/UdemyCloneProject
+Link : https://parameswari99.github.io/UdemyCloneProject/
